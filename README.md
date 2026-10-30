@@ -1,5 +1,9 @@
 # twenty-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/twenty-crm-or-salesforce-alternative-ver?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [Twenty CRM template](https://railway.com/deploy/twenty-crm-or-salesforce-alternative-ver?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Railway-tuned [Twenty CRM](https://twenty.com) image — `ghcr.io/bon5co/twenty-railway`.
 
 Thin wrapper over `twentycrm/twenty:v2.25.1`. It changes nothing about the
